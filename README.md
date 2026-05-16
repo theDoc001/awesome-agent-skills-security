@@ -225,6 +225,7 @@ AI agents increasingly use external tools, plugins, and skills to interact with 
 | Tool | Description | Link |
 |------|-------------|------|
 | **[SkillGuard](https://github.com/LLMSecurity/skillguard)** | LLM-native agent skill security auditor (OWASP Agentic + MITRE ATLAS) | [![GitHub](https://img.shields.io/github/stars/LLMSecurity/skillguard)](https://github.com/LLMSecurity/skillguard) |
+| **[fivedrisk](https://github.com/theDoc001/fivedrisk)** | Per-action AI agent risk scoring and governance: deterministic 5D scoring, Markov drift detection, injection/leakage scanners, audit log + NDJSON event stream, LangGraph and Claude Agent SDK integrations | [![GitHub](https://img.shields.io/github/stars/theDoc001/fivedrisk)](https://github.com/theDoc001/fivedrisk) |
 | **[Pipelock](https://github.com/luckyPipewrench/pipelock)** | Open-source AI agent firewall and MCP-aware egress proxy with DLP, prompt injection scanning, process sandboxing, and mediator-signed action receipts | [![GitHub](https://img.shields.io/github/stars/luckyPipewrench/pipelock)](https://github.com/luckyPipewrench/pipelock) |
 | **[Invariant Guardrails](https://github.com/invariantlabs-ai/invariant)** | Policy-based agent security guardrails | [![GitHub](https://img.shields.io/github/stars/invariantlabs-ai/invariant)](https://github.com/invariantlabs-ai/invariant) |
 | **[LLM Guard](https://github.com/protectai/llm-guard)** | Input/output scanning for LLM applications | [![GitHub](https://img.shields.io/github/stars/protectai/llm-guard)](https://github.com/protectai/llm-guard) |
